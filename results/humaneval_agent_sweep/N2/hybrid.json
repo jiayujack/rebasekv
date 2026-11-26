@@ -1,0 +1,34 @@
+{
+ "dataset": "humaneval_faithful",
+ "method": "hybrid",
+ "n": 161,
+ "samples": 4,
+ "total_samples": 644,
+ "pass": 0.8416149068322981,
+ "a3_code_rate": 1.0,
+ "per_agent_ttft_med": [
+  30.496227089315653,
+  30.705061042681336,
+  50.73320586234331
+ ],
+ "ttft_med": 31.066794879734516,
+ "per_agent_ngen_med": [
+  64,
+  57,
+  63
+ ],
+ "per_agent_ngen_max": [
+  320,
+  512,
+  295
+ ],
+ "per_agent_trunc": [
+  0,
+  0,
+  0
+ ],
+ "t_dec_step": 29.62564944755286,
+ "prefill_sum_per_pipeline": 0,
+ "rebase_sum_per_pipeline": 123.556819544839,
+ "K_mean": 2.0434782608695654
+}
